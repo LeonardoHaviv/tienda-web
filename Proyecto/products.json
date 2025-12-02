@@ -1,0 +1,81 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Laptop Gamer ROG Strix G16 (2025) G614",
+        "price": 1299.99,
+        "category": "tecnologia",
+        "image": "imagenes/laptop.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Red magic 10 pro",
+        "price": 899.99,
+        "category": "celulares",
+        "image": "imagenes/Red_magic.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Playera Básica",
+        "price": 24.99,
+        "category": "ropa",
+        "image": "imagenes/playera.jpg"
+      },
+      {
+        "id": 4,
+        "name": "REDMAGIC Astra Gaming Tablet 12G+256G Eclipse (EU)",
+        "price": 499.99,
+        "category": "tecnologia",
+        "image": "imagenes/tablet_red_magic.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Jeans Clásicos",
+        "price": 59.99,
+        "category": "ropa",
+        "image": "imagenes/jeans.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Samsung Galaxy A56",
+        "price": 349.99,
+        "category": "celulares",
+        "image": "imagenes/samsung.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Mouse Logitech Pebble 2 M350s",
+        "price": 19.99,
+        "category": "tecnologia",
+        "image": "imagenes/mouse.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Sudadera Deportiva",
+        "price": 45.99,
+        "category": "ropa",
+        "image": "imagenes/sudadera.jpg"
+      },
+      {
+        "id": 9,
+        "name": "conjunto de ropa eztilizada",
+        "price": 70.00,
+        "category": "ropa",
+        "image": "imagenes/conjunto_de_ropa_estilizada.jpg"
+      },
+      {
+        "id": 10,
+        "name": "play5 spiderman2",
+        "price": 400.00,
+        "category": "tecnologia",
+        "image": "imagenes/Paystation5_spider-man_2.jpg"
+      },
+      {
+        "id": 11,
+        "name": "play5 ghost of yotei",
+        "price": 470.00,
+        "category": "tecnologia",
+        "image": "imagenes/play5_ghost_of_yotei.jpg"
+      }
+    ]
+  }
